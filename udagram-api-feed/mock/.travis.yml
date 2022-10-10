@@ -33,4 +33,3 @@ after_success:
   - docker push abdoezzat99/udagram-api-user:v1
   - docker push abdoezzat99/udagram-frontend:v1
   - docker push abdoezzat99/udagram-reverseproxy:v1
-
