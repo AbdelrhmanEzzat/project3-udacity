@@ -23,3 +23,7 @@ kubectl describe hpa
 ```bash
 kubectl logs {pod_name}
 ```
+
+
+
+eksctl create cluster --name myCluster --region=us-east-1 --nodes-min=2 --nodes-max=3
