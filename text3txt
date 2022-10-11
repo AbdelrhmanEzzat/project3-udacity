@@ -1,0 +1,1 @@
+eksctl create cluster --name AbdoCluster --region=us-east-1 --nodes-min=2 --nodes-max=3
